@@ -1,0 +1,1 @@
+ssh -i "viet-test-instance.pem" ubuntu@ec2-54-185-245-208.us-west-2.compute.amazonaws.com
